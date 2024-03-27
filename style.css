@@ -14,6 +14,7 @@
     color: #f1f900;
     width: 15rem;
     display: block;
+    border-radius: 0.5cm; 
 
 }
 .side-detail-div{
@@ -23,7 +24,8 @@
     
 }
 .card-img-top{
-    border-radius: 50%;
+    border-radius:50%;
+    cursor: not-allowed;
 }
 .card-title , .card-text{
     text-align: center;
@@ -50,5 +52,5 @@ footer{
     color: yellow;
 }
 .image-div{
-    cursor: not-allowed;
+    border-radius: 0.5cm;
 }
