@@ -1,6 +1,6 @@
 
 .navbar{    
-    background-color:#060000;
+    background-color:black;
 }
 
 .top-section{
@@ -9,7 +9,7 @@
 .image-div, .side-detail-div{
     margin-top: 50px;
     margin-left: 50px;
-    background-color:#000000 ;
+    background-color:black ;
     font-family: 'Times New Roman', Times, serif;
     color: #f1f900;
     width: 15rem;
@@ -47,7 +47,7 @@ footer{
 }
 .form-label{
     float: left;
-    color: #f1f900;
+    color: yellow;
 }
 .image-div{
     cursor: not-allowed;
