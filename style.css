@@ -1,21 +1,26 @@
 
-.navbar{
-    background-color:#393E46;
+.navbar{    
+    background-color:#060000;
 }
 
 .top-section{
-    display: flex;
+    display:flex;
 }
 .image-div, .side-detail-div{
     margin-top: 50px;
     margin-left: 50px;
-    background-color:#929AAB ;
+    background-color:#000000 ;
+    font-family: 'Times New Roman', Times, serif;
+    color: #f1f900;
     width: 15rem;
     display: block;
+
 }
 .side-detail-div{
     width: 100%;
     margin-right: 20px;
+    
+    
 }
 .card-img-top{
     border-radius: 50%;
@@ -27,6 +32,8 @@
 .inner-div{
     margin-left: 20px;
     display: flex;
+    cursor:crosshair;
+    
 }
 .col-8{
     margin-left: 20px;
@@ -40,4 +47,8 @@ footer{
 }
 .form-label{
     float: left;
+    color: #f1f900;
+}
+.image-div{
+    cursor: not-allowed;
 }
