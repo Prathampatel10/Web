@@ -26,6 +26,9 @@
 .card-img-top{
     border-radius:50%;
     cursor: not-allowed;
+    border-style:groove;
+    border-color:#f1f900;
+    border-width: 4px;
 }
 .card-title , .card-text{
     text-align: center;
